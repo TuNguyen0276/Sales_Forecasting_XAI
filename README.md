@@ -1,6 +1,6 @@
 # Sales Forecasting with Explainable AI (XAI)
 
-- **Author:** Nguyen Ha DS
+- **Author:** Tu Nguyen
 - **Project Type:** Proof of Concept (PoC)
 - **Tech Stack:** Python, LightGBM, SHAP, Optuna, Streamlit
 
@@ -83,7 +83,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/nguyenhads/sales_forecasting_xai.git
+   git clone https://github.com/YOUR_USERNAME/sales_forecasting_xai.git
    cd sales_forecasting_xai
    ```
 
