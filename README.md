@@ -1,6 +1,6 @@
 # Sales Forecasting with Explainable AI (XAI)
 
-- **Author:** Tu Nguyen
+- **Author:** TuNguyen0276
 - **Project Type:** Proof of Concept (PoC)
 - **Tech Stack:** Python, LightGBM, SHAP, Optuna, Streamlit
 
@@ -83,7 +83,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/sales_forecasting_xai.git
+   git clone https://github.com/TuNguyen0276/sales_forecasting_xai.git
    cd sales_forecasting_xai
    ```
 
@@ -165,7 +165,4 @@
 - [Optuna Documentation](https://optuna.org/)
 - [Streamlit](https://streamlit.io/)
 
-## Contact
 
-For questions or collaboration opportunities, please reach out at:
-**📧 datasciencelab.ai@gmail.com**
